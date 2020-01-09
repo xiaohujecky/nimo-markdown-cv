@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xiaohu Ruan
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: https://mail.google.com/
+  text: steveninxiaohu@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://xiaohujecky.github.io/xiaohu_cv_eng/
+  text: xiaohujecky.github.io/xiaohu_cv_eng
 ---
 
-# Wode **Ni**
+# Xiaohu **Ruan**
 
 <!--
 include contact information from the front matter
@@ -23,66 +23,43 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Chinese Academy of Sciences, Institute of Semiconductors** `2011.9 -2014.6`
 
 ```
-Pittsburgh, PA
+Beijing, BJ
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Software Engineering
+- Computer vision in [High Speed Circuit and Neural Network Lab](http://lab.semi.ac.cn/rgsjwl/index.html)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Minzu University of China** `2007.9 - 2011.6`
 
 ```
-Carlisle, PA
+Beijing, BJ
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in [Electronic Information Engineering](https://www.muc.edu.cn/info/1194/1378.htm)
+- Basic programming C/C++, Circuit design of hardware.
+
 
 ## Publications
 
-### **How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**
+### [**An assessment method for face alignment based on feature matching**](https://www.cnki.net/kcms/detail/23.1538.TP.20150113.1131.010.html)
 
-**Wode Ni\***, Dor Ma'ayan\*, Katherine Ye, Chinmay Kulkarni, Joshua Sunshine<br>
-_Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._
+**RUAN Xiaohu\***, LI Weijun\*, QIN Hong, DONG Xiaoli, ZHANG Liping<br>
+_CAAI Transactions on Intelligent Systems, 2015, 10(1): 12-19._
+[[PDF](https://www.cnki.net/kcms/detail/23.1538.TP.20150113.1131.010.html)]
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+### [**Video query method**](https://patents.google.com/patent/CN103020260A/en)
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
+LI Weijun, **RUAN Xiaohu**, and DONG Xiaoli.<br>
+_Application CN2012105671361A events. Patent citations (6) Cited by (2) Legal events._<br>
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+### [**An method of image classification and its device**](http://zlqiao.com/zlqiao/patent-a06d6f548fc6450fbcc3ce31ae90171e.html)
+_Tongdun Techonlogy Co.,Ltd. 201910224197X_
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/dsldi.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/superres.pdf)]
+### [**Method and device for identifying road traffic sign**](http://zlqiao.com/zlqiao/patent-3350313dc9a34164998216e5138f1541.html)
+_Amap Information Technology Co., Ltd. 2016105191589_
 
 ----
 
