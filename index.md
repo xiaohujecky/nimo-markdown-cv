@@ -26,7 +26,7 @@ Supported arguments:
 ### **University of Chinese Academy of Sciences, Institute of Semiconductors** `2011.9 -2014.6`
 
 ```
-Beijing, BJ
+Beijing, China
 ```
 
 - M.S. in Software Engineering
@@ -35,7 +35,7 @@ Beijing, BJ
 ### **Minzu University of China** `2007.9 - 2011.6`
 
 ```
-Beijing, BJ
+Beijing, China
 ```
 
 - B.S. in [Electronic Information Engineering](https://www.muc.edu.cn/info/1194/1378.htm)
@@ -59,39 +59,44 @@ _Application CN2012105671361A events. Patent citations (6) Cited by (2) Legal ev
 _Tongdun Techonlogy Co.,Ltd. 201910224197X_
 
 ### [**Method and device for identifying road traffic sign**](http://zlqiao.com/zlqiao/patent-3350313dc9a34164998216e5138f1541.html)
-_Amap Information Technology Co., Ltd. 2016105191589_
+_Alibaba Group, Amap Information Technology Co., Ltd. 2016105191589_
 
 ----
 
-## Experience
+## Professional Experience
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### [**vivo Mobile Communication Co.,Ltd.**](https://www.vivo.com/brand/about) `2019.8 - now`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Computer Vision Engineer, Departmant of Hangzhou Artificial Intelligence_
+```
+Hangzhou, China 
+```
+- Develop a small and fast-implemented project of 'object recognize' for the things generally appeared in daily life(Coke can, Mineral water bottles, vegatables, friuts and things like that), which based on the technology of image retreval and deep learning. 
+- Create an open-source-within-company framework which hold deep neural network projects and functions that are frequently used in the field of computer vision, which enable the programmers and product managers put their ideas into products easily and quikly.  
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **Tongdun Techonlogy Co.,Ltd.** `2017.1 - 2017.5`
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+_Computer Vision Engineer, Artificial Intelligence Department_
+```
+Hangzhou, China 
+```
+- Develop a algorithm pipeline for chinese OCR(Optical Character Recognition), which include text line detection and recognition. The referenced work is [CTPN(ECCV2016 Weilin Huang .etc)](https://arxiv.org/pdf/1609.03605.pdf), [SSD](https://arxiv.org/pdf/1512.02325.pdf), [Seglink(CVPR2017)](http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf), [CRNN](https://arxiv.org/pdf/1507.05717.pdf), and [seq2seq Attention model](https://ai.googleblog.com/2017/07/building-your-own-neural-machine.html). The algorithm is served in the company's business products.
+- Use the deep neural network algorithm in detection and classification to solve the practical problems in industry, likely, QR code detection, Porngraph recognization, picture of advertisement recognization etc. . 
+- Help to build the framework of Deep Learning Platform. The platform is used to label the customer images and choose the plugin algorithm to train/test/deploy the deeping learning models.
 
-### **AsiaInfo** `2015.6 - 2015.8`
+### **Alibaba Group** `2015.6 - 2015.8`
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+_Computer Vision Engineer, Pailitao team, Institute of Data Science and Technologies_ 
+```
+Hangzhou, China 
+```
+- Worked on algorithms used in the system of hyperscale image retrieval, which including data analysis and pre-classification of the query image's production category in the Taobao and Tmall(the e-commerce platforms in Alibaba Group) when users search their deired products with a picture.
 
-## Advising
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+_Computer Vision Engineer, Amap Data center_ 
+```
+Beijing, China 
+```
+- Worked on algorithms used in the recognization of all kinds of traffic signs in the videos uploaded by map collection vehicle, including traffic ban sign/restrictions/warning and so on.
 
 ## Honors & Awards
 
