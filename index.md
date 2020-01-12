@@ -67,35 +67,23 @@ _Alibaba Group, Amap Information Technology Co., Ltd. 2016105191589_
 
 ### [**vivo Mobile Communication Co.,Ltd.**](https://www.vivo.com/brand/about) `2019.8 - now`
 
-_Computer Vision Engineer, Departmant of Hangzhou Artificial Intelligence_
-```
-Hangzhou, China 
-```
+_Computer Vision Engineer, Departmant of Hangzhou Artificial Intelligence_ `Hangzhou, China`
 - Develop a small and fast-implemented project of 'object recognize' for the things generally appeared in daily life(Coke can, Mineral water bottles, vegatables, friuts and things like that), which based on the technology of image retreval and deep learning. 
 - Create an open-source-within-company framework which hold deep neural network projects and functions that are frequently used in the field of computer vision, which enable the programmers and product managers put their ideas into products easily and quikly.  
 
 ### **Tongdun Techonlogy Co.,Ltd.** `2017.1 - 2017.5`
 
-_Computer Vision Engineer, Artificial Intelligence Department_
-```
-Hangzhou, China 
-```
+_Computer Vision Engineer, Artificial Intelligence Department_  `Hangzhou, China`
 - Develop a algorithm pipeline for chinese OCR(Optical Character Recognition), which include text line detection and recognition. The referenced work is [CTPN(ECCV2016 Weilin Huang .etc)](https://arxiv.org/pdf/1609.03605.pdf), [SSD](https://arxiv.org/pdf/1512.02325.pdf), [Seglink(CVPR2017)](http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf), [CRNN](https://arxiv.org/pdf/1507.05717.pdf), and [seq2seq Attention model](https://ai.googleblog.com/2017/07/building-your-own-neural-machine.html). The algorithm is served in the company's business products.
 - Use the deep neural network algorithm in detection and classification to solve the practical problems in industry, likely, QR code detection, Porngraph recognization, picture of advertisement recognization etc. . 
 - Help to build the framework of Deep Learning Platform. The platform is used to label the customer images and choose the plugin algorithm to train/test/deploy the deeping learning models.
 
 ### **Alibaba Group** `2015.6 - 2015.8`
 
-_Computer Vision Engineer, Pailitao team, Institute of Data Science and Technologies_ 
-```
-Hangzhou, China 
-```
+_Computer Vision Engineer, Pailitao team, Institute of Data Science and Technologies_  `Hangzhou, China`
 - Worked on algorithms used in the system of hyperscale image retrieval, which including data analysis and pre-classification of the query image's production category in the Taobao and Tmall(the e-commerce platforms in Alibaba Group) when users search their deired products with a picture.
 
-_Computer Vision Engineer, Amap Data center_ 
-```
-Beijing, China 
-```
+_Computer Vision Engineer, Amap Data center_   `Beijing, China`
 - Worked on algorithms used in the recognization of all kinds of traffic signs in the videos uploaded by map collection vehicle, including traffic ban sign/restrictions/warning and so on.
 
 ## Honors & Awards
