@@ -78,7 +78,7 @@ _Computer Vision Engineer, Artificial Intelligence Department_  `Hangzhou, China
 - Use the deep neural network algorithm in detection and classification to solve the practical problems in industry, likely, QR code detection, Porngraph recognization, picture of advertisement recognization etc. . 
 - Help to build the framework of Deep Learning Platform. The platform is used to label the customer images and choose the plugin algorithm to train/test/deploy the deeping learning models.
 
-### **Alibaba Group** `2015.6 - 2015.8`
+### **Alibaba Group** `2014.6 - 2017.4`
 
 _Computer Vision Engineer, Pailitao team, Institute of Data Science and Technologies_  `Hangzhou, China`
 - Worked on algorithms used in the system of hyperscale image retrieval, which including data analysis and pre-classification of the query image's production category in the Taobao and Tmall(the e-commerce platforms in Alibaba Group) when users search their deired products with a picture.
